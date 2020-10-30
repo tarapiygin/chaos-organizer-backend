@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    ".git",
+    "./piblic/*",
+    "*.test.js",
+    "README.md",
+    "database.json",
+    "node_modules/**/node_modules"
+  ]
+}
