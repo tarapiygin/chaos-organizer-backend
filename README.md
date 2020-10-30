@@ -14,4 +14,3 @@
 8 Воспроизведение видео/аудио (используя API браузера)
 9 Работа в оффлайн-режиме (при это загруженные сообщения должны кэшироваться и быть доступными после обновления страницы)
 10 Отправка геолокации и получение геолокации через API яндекс карт
-[![Build status](https://ci.appveyor.com/api/projects/status/x4oe8l1tao90nv2b?svg=true)](https://ci.appveyor.com/project/tarapiygin/chaos-organizer-frontend)
